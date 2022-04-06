@@ -1,9 +1,9 @@
 # Project AC-Exercise-S2-3-A10-login-system-simple
 Alpha camp Semester2-3 A10 login system simple
 
-![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A10-login-system-simple/blob/main/images/sample001.jpg?raw=true)
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A10-login-system-simple/blob/main/images/sample001.JPG?raw=true)
 
-![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A10-login-system-simple/blob/main/images/sample002.jpg?raw=true)
+![alt text](https://github.com/yc62897441/AC-Exercise-S2-3-A10-login-system-simple/blob/main/images/sample002.JPG?raw=true)
 
 ## Environment & Prerequisites
 
